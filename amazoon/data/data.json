@@ -1,6 +1,6 @@
 [
     {
-        "catogary": "clothes",
+        "category": "clothes",
         "id": 1,
         "src": "/img/clothes/1.jpg",
         "name": "Women's black tyring",
@@ -11,7 +11,7 @@
         "price": 255
     },
     {
-        "catogary": "clothes",
+        "category": "clothes",
         "id": 4,
         "src": "/img/clothes/4.jpg",
         "name": "Black Dress",
@@ -22,7 +22,7 @@
         "price": 355
     },
     {
-        "catogary": "clothes",
+        "category": "clothes",
         "id": 2,
         "src": "/img/clothes/2.jpg",
         "name": "Women's white tyring",
@@ -33,7 +33,7 @@
         "price": 254
     },
     {
-        "catogary": "clothes",
+        "category": "clothes",
         "id": 3,
         "src": "/img/clothes/3.jpg",
         "name": "jacket",
@@ -44,7 +44,7 @@
         "price": 400
     },
     {
-        "catogary": "clothes",
+        "category": "clothes",
         "id": 5,
         "src": "/img/clothes/5.jpg",
         "name": "Men's white T-shirt",
@@ -55,7 +55,7 @@
         "price": 315
     },
     {
-        "catogary": "clothes",
+        "category": "clothes",
         "id": 8,
         "src": "/img/clothes/5.jpg",
         "name": "Regal black T-shirt",
@@ -66,7 +66,7 @@
         "price": 200
     },
     {
-        "catogary": "clothes",
+        "category": "clothes",
         "id": 6,
         "src": "/img/clothes/6.jpg",
         "name": "Regal black T-shirt",
@@ -77,7 +77,7 @@
         "price": 205
     },
     {
-        "catogary": "clothes",
+        "category": "clothes",
         "id": 7,
         "src": "/img/clothes/7.jpg",
         "name": "Striped pullover",
@@ -88,7 +88,7 @@
         "price": 300
     },
     {
-        "catogary": "clothes",
+        "category": "clothes",
         "id": 9,
         "src": "/img/clothes/9.jpg",
         "name": "Black baby set",
@@ -99,7 +99,7 @@
         "price": 190
     },
     {
-        "catogary": "clothes",
+        "category": "clothes",
         "id": 10,
         "src": "/img/clothes/10.jpg",
         "name": "white baby set",
@@ -110,7 +110,7 @@
         "price": 204
     },
     {
-        "catogary": "clothes",
+        "category": "clothes",
         "id": 11,
         "src": "/img/clothes/11.jpg",
         "name": "Vestal for his child",
@@ -121,7 +121,7 @@
         "price": 210
     },
     {
-        "catogary": "clothes",
+        "category": "clothes",
         "id": 12,
         "src": "/img/clothes/12.jpg",
         "name": "black vestal ",
@@ -133,7 +133,7 @@
     },
 
     {
-        "catogary": "phones",
+        "category": "phones",
         "id": 13,
         "src": "/img/phone/1.jpg",
         "name": "huawei nova y70",
@@ -144,7 +144,7 @@
         "price": 5055
     },
     {
-        "catogary": "phones",
+        "category": "phones",
         "id": 14,
         "src": "/img/phone/2.jpg",
         "name": "oppo a16",
@@ -155,7 +155,7 @@
         "price": 7040
     },
     {
-        "catogary": "phones",
+        "category": "phones",
         "id": 15,
         "src": "/img/phone/3.jpg",
         "name": "oppo reno 6",
@@ -166,7 +166,7 @@
         "price": 7040
     },
     {
-        "catogary": "phones",
+        "category": "phones",
         "id": 16,
         "src": "/img/phone/4.jpg",
         "name": "redmi 5",
@@ -177,7 +177,7 @@
         "price": 7040
     },
     {
-        "catogary": "phones",
+        "category": "phones",
         "id": 17,
         "src": "/img/phone/5.jpg",
         "name": "redmi 10",
@@ -188,7 +188,7 @@
         "price": 8040
     },
     {
-        "catogary": "phones",
+        "category": "phones",
         "id": 18,
         "src": "/img/phone/6.jpg",
         "name": "sony z20",
@@ -199,7 +199,7 @@
         "price": 7000
     },
     {
-        "catogary": "phones",
+        "category": "phones",
         "id": 19,
         "src": "/img/phone/7.jpg",
         "name": "samsung galacxy 50",
@@ -210,7 +210,7 @@
         "price": 7000
     },
     {
-        "catogary": "phones",
+        "category": "phones",
         "id": 20,
         "src": "/img/phone/8.jpg",
         "name": "honar g10",
@@ -221,7 +221,7 @@
         "price": 6000
     },
     {
-        "catogary": "phones",
+        "category": "phones",
         "id": 20,
         "src": "/img/phone/9.jpg",
         "name": "samsung galacxy a50",
@@ -232,7 +232,7 @@
         "price": 9000
     },
     {
-        "catogary": "phones",
+        "category": "phones",
         "id": 21,
         "src": "/img/phone/10.jpg",
         "name": "huawei nova y80",
@@ -243,7 +243,7 @@
         "price": 12000
     },
     {
-        "catogary": "phones",
+        "category": "phones",
         "id": 22,
         "src": "/img/phone/11.jpg",
         "name": "honar g6",
@@ -254,7 +254,7 @@
         "price": 7080
     },
     {
-        "catogary": "phones",
+        "category": "phones",
         "id": 22,
         "src": "/img/phone/12.jpg",
         "name": "lg x7",
@@ -265,7 +265,7 @@
         "price": 8888
     },
     {
-        "catogary": "kitchen",
+        "category": "kitchen",
         "id": 23,
         "src": "/img/kitchen/1.jpg",
         "name": "zanosi",
@@ -275,7 +275,7 @@
         "price": 12000
     },
     {
-        "catogary": "kitchen",
+        "category": "kitchen",
         "id": 24,
         "src": "/img/kitchen/2.jpg",
         "name": "frash",
@@ -285,7 +285,7 @@
         "price": 12000
     },
     {
-        "catogary": "kitchen",
+        "category": "kitchen",
         "id": 25,
         "src": "/img/kitchen/3.jpg",
         "name": "lg",
@@ -295,7 +295,7 @@
         "price": 12000
     },
     {
-        "catogary": "kitchen",
+        "category": "kitchen",
         "id": 26,
         "src": "/img/kitchen/4.jpg",
         "name": "ununaire",
@@ -305,7 +305,7 @@
         "price": 12000
     },
     {
-        "catogary": "kitchen",
+        "category": "kitchen",
         "id": 27,
         "src": "/img/kitchen/5.jpg",
         "name": "ununaire",
@@ -315,7 +315,7 @@
         "price": 12000
     },
     {
-        "catogary": "kitchen",
+        "category": "kitchen",
         "id": 28,
         "src": "/img/kitchen/6.jpg",
         "name": "lg",
@@ -325,7 +325,7 @@
         "price": 12000
     },
     {
-        "catogary": "kitchen",
+        "category": "kitchen",
         "id": 29,
         "src": "/img/kitchen/7.jpg",
         "name": "toshiba",
@@ -335,7 +335,7 @@
         "price": 12000
     },
     {
-        "catogary": "kitchen",
+        "category": "kitchen",
         "id": 30,
         "src": "/img/kitchen/8.jpg",
         "name": "ununaire",
@@ -345,7 +345,7 @@
         "price": 12000
     },
     {
-        "catogary": "kitchen",
+        "category": "kitchen",
         "id": 31,
         "src": "/img/kitchen/9.jpg",
         "name": "toshiba",
@@ -355,7 +355,7 @@
         "price": 12000
     },
     {
-        "catogary": "kitchen",
+        "category": "kitchen",
         "id": 32,
         "src": "/img/kitchen/10.jpg",
         "name": "frash",
@@ -365,7 +365,7 @@
         "price": 12000
     },
     {
-        "catogary": "kitchen",
+        "category": "kitchen",
         "id": 33,
         "src": "/img/kitchen/11.jpg",
         "name": "zanosi",
@@ -375,7 +375,7 @@
         "price": 12000
     },
     {
-        "catogary": "kitchen",
+        "category": "kitchen",
         "id": 34,
         "src": "/img/kitchen/12.jpg",
         "name": "lg",
